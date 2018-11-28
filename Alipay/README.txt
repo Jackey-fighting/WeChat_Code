@@ -13,8 +13,8 @@ $orderName = 'Jackey-支付测试';    //订单标题
 
 
 支付宝，微信支付，附带源码
-第一个源码
+第一个源码(分的很开，单独)
 https://github.com/dedemao/alipay
 
-第二个源码
+第二个源码(推荐)
 https://github.com/zoujingli/pay-php-sdk
